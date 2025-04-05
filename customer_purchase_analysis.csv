@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Annual_Income,Spending_Score,Purchase_Amount,Purchase_Category,City
+1,56,Male,49241,23,795,Electronics,Phoenix
+2,46,Female,116214,88,1409,Clothing,Los Angeles
+3,32,Female,64569,44,4252,Clothing,Houston
+4,60,Female,31745,77,3334,Clothing,Chicago
+5,25,Male,46029,22,4214,Furniture,Los Angeles
+6,38,Male,33025,43,2411,Clothing,Los Angeles
+7,56,Male,34288,37,2941,Electronics,Houston
+8,36,Male,109186,61,4308,Electronics,New York
+9,40,Male,26540,97,3659,Groceries,New York
+10,28,Male,117768,56,3498,Clothing,Phoenix
+11,28,Male,101958,3,641,Furniture,Houston
+12,41,Male,88878,63,2794,Furniture,Chicago
+13,53,Female,61846,19,4774,Furniture,Chicago
+14,57,Female,95932,23,1188,Groceries,Houston
+15,41,Male,37482,29,3463,Electronics,Chicago
+16,20,Male,43411,30,124,Furniture,New York
+17,39,Female,70975,39,1672,Electronics,Chicago
+18,19,Male,80545,25,3058,Groceries,Chicago
+19,41,Male,98797,8,4336,Clothing,Houston
+20,61,Male,72307,58,1867,Clothing,Houston
+21,47,Female,23093,16,4843,Clothing,Chicago
+22,55,Female,97258,72,2335,Furniture,Los Angeles
+23,19,Female,42042,1,300,Clothing,Houston
+24,38,Female,72930,5,3298,Furniture,Phoenix
+25,50,Female,64413,3,356,Groceries,Phoenix
+26,29,Male,113623,65,3847,Groceries,New York
+27,39,Female,117883,4,4742,Furniture,Chicago
+28,61,Male,53756,99,2341,Electronics,Los Angeles
+29,42,Male,73268,96,3275,Clothing,New York
+30,44,Female,59214,64,3706,Clothing,Chicago
+31,59,Female,101871,98,3436,Clothing,Houston
+32,45,Male,48602,89,4997,Furniture,Phoenix
+33,33,Male,73331,10,513,Groceries,Los Angeles
+34,32,Male,68901,21,2114,Clothing,Phoenix
+35,64,Female,119986,46,1481,Groceries,Houston
+36,61,Female,83416,91,1198,Clothing,Chicago
+37,20,Female,52196,27,3526,Clothing,Houston
+38,54,Female,25626,66,3755,Furniture,Houston
+39,24,Female,27424,41,1009,Electronics,Phoenix
+40,38,Male,32857,13,287,Furniture,Los Angeles
+41,26,Female,39982,9,4144,Clothing,Houston
+42,56,Male,96961,36,3856,Clothing,Phoenix
+43,35,Male,21980,86,2115,Electronics,Los Angeles
+44,21,Male,68290,90,2192,Groceries,Chicago
+45,42,Female,46431,58,3744,Groceries,Chicago
+46,31,Female,104976,54,2230,Clothing,New York
+47,26,Female,102711,12,457,Groceries,Phoenix
+48,43,Male,46385,81,2522,Clothing,Los Angeles
+49,19,Male,58158,78,4357,Electronics,Houston
+50,37,Male,43019,14,4645,Electronics,Chicago
+51,45,Male,38639,34,1597,Clothing,Los Angeles
+52,64,Male,105530,53,2258,Electronics,Phoenix
+53,24,Male,119911,20,2655,Furniture,New York
+54,61,Female,41563,75,2442,Furniture,Chicago
+55,25,Female,59341,16,3051,Electronics,Los Angeles
+56,64,Female,25776,95,1338,Clothing,Los Angeles
+57,52,Female,56444,70,1073,Clothing,Los Angeles
+58,31,Male,88916,56,4827,Electronics,Phoenix
+59,34,Male,28711,83,4065,Groceries,Phoenix
+60,53,Female,94318,58,1150,Furniture,Phoenix
+61,57,Male,102970,4,3801,Groceries,Houston
+62,21,Female,105553,4,2880,Clothing,Los Angeles
+63,19,Female,50707,20,1688,Clothing,Chicago
+64,23,Female,59110,10,3978,Groceries,Phoenix
+65,59,Male,81788,24,2468,Electronics,Phoenix
+66,21,Female,102879,99,536,Groceries,Los Angeles
+67,46,Female,58827,26,2928,Groceries,Phoenix
+68,35,Female,25655,37,1656,Furniture,Houston
+69,43,Male,64859,85,3958,Furniture,Houston
+70,61,Male,73625,54,1404,Groceries,Phoenix
+71,51,Female,72098,21,2484,Groceries,Los Angeles
+72,27,Male,35251,74,282,Clothing,Los Angeles
+73,53,Male,20526,38,1689,Furniture,Los Angeles
+74,31,Male,88760,46,1687,Furniture,New York
+75,48,Male,67837,4,759,Clothing,Phoenix
+76,32,Male,31536,60,259,Electronics,Los Angeles
+77,25,Male,48541,57,4053,Furniture,Houston
+78,31,Male,99083,45,1111,Furniture,Chicago
+79,40,Male,71027,20,152,Electronics,Chicago
+80,57,Male,54531,17,2407,Furniture,Los Angeles
+81,38,Male,28712,71,1328,Furniture,Chicago
+82,33,Female,85455,4,1135,Electronics,Chicago
+83,62,Female,94744,93,3802,Electronics,New York
+84,35,Male,25109,14,4145,Groceries,Houston
+85,64,Female,69268,3,4549,Clothing,Houston
+86,41,Female,74615,88,1364,Clothing,New York
+87,43,Male,102503,80,1984,Electronics,New York
+88,42,Male,49759,58,1909,Electronics,Chicago
+89,62,Male,105708,55,3267,Furniture,Phoenix
+90,58,Female,80112,4,3897,Groceries,Chicago
+91,46,Female,46589,24,2441,Groceries,New York
+92,32,Male,50015,34,3514,Electronics,Houston
+93,62,Male,49009,30,917,Furniture,Chicago
+94,18,Male,103309,82,2537,Furniture,Phoenix
+95,42,Female,82046,19,988,Clothing,Chicago
+96,24,Female,46143,31,767,Clothing,Los Angeles
+97,26,Female,26154,60,4828,Furniture,Chicago
+98,41,Female,41804,60,2724,Clothing,New York
+99,18,Male,61688,19,4332,Electronics,Houston
+100,61,Male,84288,49,4623,Furniture,Houston
+101,25,Male,71195,63,918,Clothing,New York
+102,41,Male,40581,83,2288,Groceries,Los Angeles
+103,28,Female,72648,22,1206,Furniture,New York
+104,34,Female,50087,24,2324,Furniture,Chicago
+105,25,Male,69930,76,297,Groceries,New York
+106,52,Male,52981,30,2771,Electronics,New York
+107,52,Female,89298,58,3592,Groceries,Los Angeles
+108,50,Male,66167,31,2548,Furniture,Chicago
+109,22,Female,95304,64,570,Electronics,Phoenix
+110,59,Male,63408,19,2048,Clothing,Phoenix
+111,56,Male,59499,48,3999,Clothing,Houston
+112,58,Male,72269,45,2110,Clothing,New York
+113,45,Male,58559,94,3900,Furniture,Houston
+114,24,Male,94319,55,4218,Groceries,Los Angeles
+115,26,Male,115317,55,3896,Electronics,Phoenix
+116,25,Male,116347,97,4088,Clothing,New York
+117,29,Female,68787,18,334,Electronics,Los Angeles
+118,51,Female,55488,63,1028,Furniture,Los Angeles
+119,50,Female,94441,92,3707,Clothing,New York
+120,40,Female,94663,47,622,Furniture,Los Angeles
+121,41,Female,42431,75,3623,Groceries,New York
+122,54,Male,81681,57,4626,Furniture,New York
+123,52,Male,83483,45,4988,Furniture,Chicago
+124,61,Female,69153,33,1729,Groceries,Houston
+125,57,Male,26368,17,4728,Electronics,Los Angeles
+126,39,Female,47424,70,1416,Groceries,Los Angeles
+127,44,Female,65004,4,2957,Groceries,Chicago
+128,52,Male,103869,20,1224,Furniture,Chicago
+129,18,Male,108652,47,2687,Electronics,Chicago
+130,52,Male,76985,91,1123,Clothing,Phoenix
+131,54,Female,70069,15,1478,Groceries,Phoenix
+132,64,Male,72326,70,3474,Electronics,Phoenix
+133,31,Female,101061,47,1619,Groceries,New York
+134,20,Female,43398,78,326,Groceries,Los Angeles
+135,18,Female,118393,75,991,Groceries,Houston
+136,22,Male,70861,9,4172,Groceries,New York
+137,43,Male,95897,90,2357,Furniture,Los Angeles
+138,31,Female,101905,16,2888,Electronics,Los Angeles
+139,56,Male,88577,69,496,Electronics,Chicago
+140,44,Male,85641,61,2178,Electronics,Chicago
+141,26,Male,29078,10,4844,Groceries,New York
+142,32,Female,45003,50,4524,Furniture,Chicago
+143,32,Female,82768,3,3337,Groceries,Los Angeles
+144,43,Male,71047,77,3993,Groceries,Chicago
+145,59,Female,91626,94,2105,Electronics,Phoenix
+146,30,Male,77660,70,2116,Groceries,Chicago
+147,49,Male,69786,81,3271,Clothing,Los Angeles
+148,56,Male,21925,51,2768,Groceries,New York
+149,49,Male,103976,19,1978,Clothing,Houston
+150,21,Female,46015,42,1296,Groceries,Chicago
+151,47,Female,53320,35,1872,Furniture,Los Angeles
+152,54,Female,84881,46,261,Furniture,Houston
+153,40,Male,110827,26,4076,Electronics,Houston
+154,56,Male,46289,69,1851,Groceries,Phoenix
+155,62,Male,23389,93,875,Clothing,Houston
+156,32,Female,45683,64,1039,Clothing,Los Angeles
+157,60,Male,33629,37,3320,Groceries,Los Angeles
+158,46,Female,81550,84,639,Clothing,Chicago
+159,53,Female,44826,49,1561,Furniture,Chicago
+160,30,Female,46630,21,455,Clothing,Chicago
+161,49,Female,118762,74,3704,Electronics,Houston
+162,24,Female,66163,64,3423,Furniture,Houston
+163,39,Female,118511,5,334,Furniture,Phoenix
+164,45,Male,86435,70,1648,Furniture,Chicago
+165,19,Male,31653,90,2196,Groceries,New York
+166,59,Female,47961,4,4313,Groceries,Phoenix
+167,62,Female,101941,39,2201,Furniture,New York
+168,23,Male,94137,35,1773,Groceries,Houston
+169,45,Female,53662,1,2200,Clothing,Phoenix
+170,45,Female,118818,24,3757,Groceries,Phoenix
+171,61,Male,76446,57,4753,Groceries,Los Angeles
+172,61,Female,41288,70,3696,Furniture,Houston
+173,37,Female,115081,41,3848,Electronics,Houston
+174,47,Female,56877,54,3273,Electronics,Phoenix
+175,28,Male,35313,46,1915,Electronics,Houston
+176,45,Male,100885,60,3941,Clothing,Phoenix
+177,42,Male,92715,60,2105,Groceries,Los Angeles
+178,56,Female,30326,57,4593,Electronics,Phoenix
+179,50,Female,21560,31,774,Furniture,Houston
+180,18,Male,99148,84,486,Electronics,Houston
+181,44,Female,103186,24,2258,Electronics,Phoenix
+182,30,Female,46745,89,2761,Groceries,Phoenix
+183,58,Female,51890,36,2164,Groceries,Phoenix
+184,20,Female,40022,85,3951,Groceries,Chicago
+185,56,Female,72579,30,3353,Clothing,Houston
+186,23,Male,90316,24,4736,Clothing,Houston
+187,25,Female,103847,30,4366,Electronics,Chicago
+188,44,Male,48380,86,839,Groceries,Phoenix
+189,26,Female,22356,92,1501,Electronics,Los Angeles
+190,54,Male,90326,7,3359,Furniture,Phoenix
+191,50,Female,112447,35,2377,Furniture,Phoenix
+192,59,Male,109899,55,4004,Groceries,Chicago
+193,61,Female,40049,92,4023,Groceries,Houston
+194,41,Male,95717,14,4314,Furniture,Phoenix
+195,32,Female,36082,10,3327,Groceries,Houston
+196,49,Male,20661,80,2931,Clothing,New York
+197,49,Female,57412,16,3858,Clothing,Houston
+198,41,Male,22920,54,2612,Groceries,Los Angeles
+199,58,Male,111194,95,2251,Furniture,Los Angeles
+200,29,Female,80315,89,3775,Electronics,Phoenix
+201,56,Female,99561,77,2845,Groceries,Houston
+202,19,Male,28946,70,3966,Groceries,Phoenix
+203,20,Female,114242,44,3864,Electronics,Chicago
+204,54,Male,65500,73,2322,Groceries,Los Angeles
+205,34,Male,36309,45,2892,Electronics,Phoenix
+206,19,Male,75230,56,1797,Furniture,Chicago
+207,19,Female,118656,84,3562,Clothing,Phoenix
+208,45,Male,50027,82,4163,Furniture,Houston
+209,40,Male,92541,57,1624,Clothing,Houston
+210,54,Female,79321,21,4860,Electronics,Houston
+211,49,Female,20956,68,132,Clothing,Houston
+212,50,Female,94131,50,4125,Furniture,New York
+213,18,Female,67908,33,2666,Clothing,Chicago
+214,36,Male,98339,91,2903,Electronics,Chicago
+215,19,Male,45963,7,3996,Clothing,Houston
+216,61,Male,59443,70,3809,Groceries,New York
+217,43,Male,119259,15,819,Furniture,Houston
+218,49,Female,59063,82,4679,Groceries,New York
+219,23,Male,100818,32,1072,Electronics,Houston
+220,49,Male,24703,75,3818,Clothing,Los Angeles
+221,21,Female,85128,20,4502,Groceries,Los Angeles
+222,28,Male,92099,88,4652,Groceries,Phoenix
+223,34,Male,45849,15,2307,Clothing,Houston
+224,55,Male,51860,48,4526,Clothing,Chicago
+225,41,Male,51585,71,4420,Furniture,Phoenix
+226,22,Male,42015,21,3130,Groceries,Los Angeles
+227,51,Male,97539,42,3675,Groceries,Houston
+228,23,Female,63585,26,3216,Electronics,Phoenix
+229,39,Female,46958,14,3385,Furniture,Houston
+230,28,Male,46017,57,743,Electronics,Los Angeles
+231,33,Male,96707,37,4811,Groceries,Phoenix
+232,50,Female,65350,58,294,Electronics,Los Angeles
+233,26,Male,32201,21,4096,Groceries,New York
+234,23,Male,49426,82,588,Groceries,Los Angeles
+235,33,Male,37778,69,2304,Electronics,Houston
+236,46,Female,65241,3,2757,Electronics,Chicago
+237,20,Male,62229,87,3376,Clothing,Los Angeles
+238,37,Female,106652,90,1202,Clothing,Chicago
+239,53,Male,68364,37,1341,Clothing,New York
+240,36,Female,118833,88,615,Groceries,Phoenix
+241,43,Female,104878,49,492,Electronics,Phoenix
+242,20,Male,77056,19,730,Furniture,Chicago
+243,36,Female,47490,89,3816,Groceries,Phoenix
+244,37,Male,39975,85,1947,Furniture,Los Angeles
+245,49,Female,46723,12,2755,Electronics,Chicago
+246,24,Male,43279,61,1079,Groceries,Houston
+247,58,Male,98301,41,4629,Furniture,Los Angeles
+248,50,Female,31561,33,3502,Furniture,Los Angeles
+249,57,Male,86061,50,3971,Clothing,Los Angeles
+250,56,Male,108397,68,377,Clothing,Houston
+251,35,Female,69153,71,332,Clothing,New York
+252,57,Male,53142,86,1652,Groceries,Phoenix
+253,18,Male,46916,33,3370,Electronics,Chicago
+254,28,Female,84324,81,2509,Electronics,New York
+255,45,Female,64965,24,3612,Clothing,Chicago
+256,42,Male,24648,61,125,Clothing,Phoenix
+257,40,Male,55133,61,560,Clothing,Houston
+258,48,Female,70677,98,3864,Furniture,Los Angeles
+259,47,Female,116059,28,3531,Clothing,Los Angeles
+260,59,Male,114588,58,3583,Furniture,Houston
+261,52,Female,119950,43,2094,Electronics,New York
+262,24,Male,118317,41,590,Groceries,New York
+263,33,Male,90135,39,1172,Groceries,Chicago
+264,43,Male,55046,86,3273,Groceries,Houston
+265,19,Male,67064,49,315,Groceries,New York
+266,18,Male,89350,17,1823,Furniture,Houston
+267,29,Female,65893,98,1692,Furniture,Phoenix
+268,22,Female,81272,70,2706,Clothing,Los Angeles
+269,54,Female,112152,70,258,Furniture,Los Angeles
+270,49,Female,87649,98,4881,Clothing,Los Angeles
+271,26,Male,84674,65,3413,Clothing,Houston
+272,58,Male,33760,74,2941,Groceries,Houston
+273,52,Male,41927,85,1876,Furniture,Chicago
+274,36,Male,106475,5,2152,Furniture,Los Angeles
+275,33,Female,81367,2,2395,Clothing,Chicago
+276,20,Male,117955,22,1796,Clothing,Los Angeles
+277,37,Male,32588,57,3093,Electronics,Chicago
+278,41,Female,72233,66,2569,Electronics,Chicago
+279,50,Female,64738,74,2046,Clothing,Phoenix
+280,41,Female,53397,98,3909,Electronics,Chicago
+281,28,Female,102189,16,2883,Electronics,Houston
+282,25,Male,96367,51,3744,Clothing,Chicago
+283,53,Male,91260,39,2600,Clothing,Los Angeles
+284,55,Female,96619,86,3745,Furniture,Chicago
+285,57,Male,39816,76,2745,Clothing,New York
+286,37,Male,62240,88,2449,Clothing,Los Angeles
+287,52,Male,26276,40,2032,Groceries,New York
+288,42,Female,99530,38,3394,Furniture,Los Angeles
+289,52,Male,43499,60,1857,Furniture,Houston
+290,42,Female,108576,59,1216,Furniture,Houston
+291,46,Male,102495,10,2667,Groceries,Houston
+292,35,Male,91635,99,3599,Clothing,New York
+293,63,Male,105112,64,592,Furniture,Phoenix
+294,35,Female,55946,63,3406,Furniture,Los Angeles
+295,19,Male,75204,49,719,Electronics,Houston
+296,52,Female,71886,64,3332,Furniture,Los Angeles
+297,33,Female,91652,32,3923,Clothing,New York
+298,58,Female,35563,7,2480,Clothing,Phoenix
+299,53,Male,112324,21,1646,Electronics,New York
+300,50,Male,112464,20,3663,Furniture,Los Angeles
+301,21,Male,29847,26,1705,Furniture,Phoenix
+302,50,Male,46155,68,3852,Furniture,Phoenix
+303,31,Female,99671,86,4775,Groceries,New York
+304,38,Female,103310,15,1990,Furniture,Houston
+305,37,Female,87278,85,1375,Clothing,Los Angeles
+306,25,Male,38309,79,2843,Clothing,Chicago
+307,24,Female,20619,86,2593,Groceries,Chicago
+308,20,Male,103194,92,456,Groceries,New York
+309,34,Female,70108,14,969,Furniture,Los Angeles
+310,50,Male,54707,27,985,Electronics,Los Angeles
+311,29,Male,40337,40,2101,Groceries,New York
+312,39,Female,101537,58,1383,Groceries,Los Angeles
+313,39,Female,86504,28,719,Furniture,Houston
+314,63,Female,67614,26,982,Furniture,New York
+315,47,Female,111428,63,896,Groceries,Houston
+316,55,Male,111155,66,3742,Electronics,Los Angeles
+317,55,Female,20281,25,3525,Groceries,New York
+318,62,Female,47420,3,1396,Furniture,Los Angeles
+319,25,Female,100896,72,4814,Furniture,New York
+320,44,Male,59030,44,344,Groceries,Los Angeles
+321,44,Male,21058,97,2995,Electronics,Houston
+322,51,Female,106213,42,1029,Groceries,Houston
+323,38,Male,96260,99,619,Groceries,Los Angeles
+324,47,Female,48404,6,3312,Furniture,New York
+325,50,Male,49856,39,2509,Electronics,Chicago
+326,45,Male,29200,52,107,Clothing,Houston
+327,64,Male,84178,23,2625,Electronics,Houston
+328,50,Male,53997,89,3523,Groceries,Chicago
+329,22,Female,45611,50,2119,Groceries,Los Angeles
+330,36,Female,61235,43,4690,Groceries,New York
+331,21,Female,55057,19,4382,Electronics,Los Angeles
+332,52,Male,21239,69,3767,Furniture,Phoenix
+333,34,Female,85661,51,3771,Groceries,Houston
+334,61,Female,65272,11,2901,Groceries,Phoenix
+335,45,Female,109393,12,185,Electronics,Houston
+336,47,Male,81212,74,3215,Clothing,Houston
+337,46,Male,35398,8,4332,Clothing,Phoenix
+338,63,Male,76503,24,2568,Furniture,Phoenix
+339,23,Female,26638,92,3719,Furniture,Los Angeles
+340,52,Female,26570,41,1736,Groceries,Phoenix
+341,58,Female,88785,36,3683,Electronics,Los Angeles
+342,54,Male,29110,85,4109,Groceries,Los Angeles
+343,41,Male,99141,72,3426,Furniture,Los Angeles
+344,46,Female,32115,55,2318,Electronics,Houston
+345,63,Male,59062,9,2317,Electronics,Houston
+346,48,Male,42911,47,2469,Furniture,Phoenix
+347,52,Male,52556,15,3738,Clothing,Houston
+348,50,Male,98131,48,2603,Clothing,Phoenix
+349,38,Female,21969,82,1043,Electronics,Houston
+350,49,Male,63753,42,2937,Groceries,New York
+351,40,Male,102811,60,2760,Clothing,New York
+352,50,Male,24470,84,3036,Groceries,Phoenix
+353,20,Male,30225,70,4544,Clothing,Houston
+354,35,Female,43196,12,4047,Clothing,Houston
+355,42,Female,33669,2,1776,Groceries,Los Angeles
+356,59,Male,57380,7,1296,Furniture,Chicago
+357,48,Male,68320,80,4205,Clothing,Phoenix
+358,20,Male,67414,3,2887,Clothing,Chicago
+359,57,Male,35577,3,1561,Groceries,Chicago
+360,63,Male,108009,27,3418,Furniture,Phoenix
+361,41,Male,75409,40,766,Clothing,Houston
+362,49,Female,48625,33,2276,Clothing,Phoenix
+363,64,Male,101040,92,3843,Furniture,Chicago
+364,39,Female,44089,1,700,Clothing,Houston
+365,40,Female,56487,8,2752,Furniture,New York
+366,19,Male,85838,32,4522,Furniture,Phoenix
+367,44,Female,116999,48,3924,Groceries,Phoenix
+368,59,Female,114795,4,4006,Electronics,Houston
+369,19,Female,70138,94,1079,Furniture,New York
+370,43,Female,62823,70,2551,Groceries,New York
+371,34,Female,57208,19,728,Electronics,Houston
+372,57,Female,74061,32,1729,Clothing,Los Angeles
+373,50,Male,50659,9,3796,Electronics,Phoenix
+374,26,Female,51890,12,3530,Furniture,Phoenix
+375,60,Female,99134,11,3774,Furniture,Chicago
+376,56,Female,67055,46,4029,Furniture,Houston
+377,46,Male,39508,16,2865,Furniture,Chicago
+378,59,Female,62287,1,4469,Furniture,Chicago
+379,43,Male,98916,63,4880,Groceries,New York
+380,52,Female,46984,21,215,Furniture,Phoenix
+381,42,Male,28125,30,2103,Groceries,Chicago
+382,41,Male,56059,13,792,Clothing,New York
+383,30,Female,89569,34,3262,Furniture,Houston
+384,24,Female,37087,4,1205,Furniture,Chicago
+385,53,Male,25704,28,3108,Electronics,Phoenix
+386,62,Female,80576,95,2261,Clothing,Chicago
+387,37,Male,93384,59,253,Furniture,Houston
+388,18,Male,107128,27,3799,Furniture,Chicago
+389,25,Male,92460,69,4510,Clothing,Phoenix
+390,63,Male,47208,25,3886,Groceries,New York
+391,33,Male,105150,3,1164,Furniture,Phoenix
+392,31,Female,86024,97,4300,Electronics,New York
+393,29,Male,59882,68,2013,Furniture,Los Angeles
+394,40,Male,45923,25,1316,Electronics,Phoenix
+395,32,Female,49165,20,2501,Electronics,Phoenix
+396,45,Male,87203,34,1872,Furniture,Houston
+397,51,Female,111749,26,2060,Furniture,Chicago
+398,19,Female,24114,5,2880,Electronics,New York
+399,49,Female,84965,99,4904,Clothing,New York
+400,40,Male,56321,61,4846,Clothing,Houston
+401,39,Male,93297,92,2971,Furniture,Houston
+402,42,Male,116652,93,760,Groceries,Chicago
+403,39,Female,119304,9,2735,Clothing,Chicago
+404,39,Male,45426,50,2429,Furniture,Phoenix
+405,59,Female,37772,6,4054,Clothing,Los Angeles
+406,23,Male,23712,83,2550,Groceries,Chicago
+407,32,Female,21367,60,1232,Furniture,Houston
+408,60,Male,111736,44,799,Groceries,Chicago
+409,54,Male,71924,11,2138,Furniture,New York
+410,50,Male,23726,66,4747,Groceries,Los Angeles
+411,25,Female,109152,47,4600,Clothing,Phoenix
+412,61,Female,47723,73,4657,Clothing,New York
+413,61,Male,29108,85,2279,Groceries,New York
+414,22,Male,97714,88,2938,Groceries,Los Angeles
+415,56,Female,55643,98,973,Groceries,Phoenix
+416,21,Female,51324,86,183,Furniture,Houston
+417,23,Female,103360,3,1522,Clothing,Phoenix
+418,62,Male,28927,76,2775,Furniture,Chicago
+419,49,Female,113680,92,3280,Clothing,New York
+420,47,Male,116546,30,4416,Electronics,Chicago
+421,64,Female,42443,90,4075,Furniture,Houston
+422,52,Male,99973,21,1491,Clothing,Chicago
+423,57,Female,83449,28,3318,Clothing,Phoenix
+424,33,Female,96743,90,4307,Furniture,Chicago
+425,30,Female,80233,62,714,Furniture,Houston
+426,59,Female,45537,33,3071,Clothing,Houston
+427,47,Female,97576,85,3665,Furniture,Houston
+428,36,Male,42612,35,3676,Groceries,Phoenix
+429,34,Female,113977,52,4670,Furniture,Houston
+430,36,Female,26471,34,370,Furniture,New York
+431,45,Female,55631,41,4166,Furniture,Houston
+432,43,Male,112059,51,2568,Clothing,Chicago
+433,54,Female,51348,47,1490,Groceries,Chicago
+434,43,Male,84732,82,3454,Electronics,Chicago
+435,40,Female,21177,58,4235,Electronics,Phoenix
+436,26,Female,24760,75,3707,Groceries,Chicago
+437,29,Male,52779,57,2683,Groceries,Phoenix
+438,18,Female,41636,23,4173,Groceries,Phoenix
+439,18,Male,101889,48,3175,Clothing,Houston
+440,64,Male,73551,22,4006,Electronics,New York
+441,51,Female,31556,17,389,Groceries,Houston
+442,49,Male,47598,69,2580,Clothing,Houston
+443,42,Female,31563,11,3352,Electronics,Phoenix
+444,57,Female,66819,94,378,Furniture,Phoenix
+445,62,Male,93770,15,3024,Clothing,Chicago
+446,18,Male,111055,91,680,Electronics,Chicago
+447,33,Male,46966,35,353,Clothing,Houston
+448,56,Male,101709,33,4376,Electronics,Los Angeles
+449,22,Female,79889,84,4876,Electronics,Los Angeles
+450,39,Female,46987,16,924,Furniture,Chicago
+451,46,Male,98714,34,3932,Clothing,Los Angeles
+452,20,Female,78348,66,799,Groceries,Chicago
+453,29,Female,44596,99,1480,Furniture,Phoenix
+454,43,Female,53174,40,3996,Furniture,Houston
+455,33,Female,84106,28,1773,Electronics,New York
+456,54,Male,89967,47,2827,Groceries,Houston
+457,39,Male,79182,39,3256,Clothing,Chicago
+458,46,Female,113300,70,3488,Groceries,Chicago
+459,31,Male,107163,73,4407,Groceries,Houston
+460,45,Male,59310,20,483,Groceries,Chicago
+461,22,Male,76088,1,441,Groceries,Los Angeles
+462,64,Female,28906,72,2087,Groceries,Los Angeles
+463,47,Female,56914,87,4159,Electronics,Chicago
+464,63,Female,65379,63,3209,Electronics,Chicago
+465,22,Male,98612,67,4182,Furniture,Los Angeles
+466,29,Female,57650,4,4615,Electronics,Chicago
+467,33,Female,66881,58,2898,Furniture,Chicago
+468,43,Male,66413,25,3340,Furniture,Houston
+469,43,Female,26012,47,2088,Clothing,New York
+470,38,Female,70115,38,3514,Groceries,Los Angeles
+471,56,Male,27151,15,1949,Electronics,Houston
+472,53,Male,77716,63,405,Clothing,New York
+473,50,Male,113747,21,3713,Electronics,Chicago
+474,47,Female,112653,99,2849,Furniture,Chicago
+475,54,Female,56378,57,1235,Electronics,Houston
+476,40,Female,62652,53,305,Groceries,Chicago
+477,27,Male,92430,46,4691,Furniture,Phoenix
+478,22,Male,33467,14,3550,Furniture,Houston
+479,53,Female,51010,76,3911,Clothing,New York
+480,51,Female,74691,17,3722,Groceries,Houston
+481,48,Male,84157,39,3699,Furniture,Los Angeles
+482,27,Male,32289,9,2651,Groceries,Houston
+483,36,Male,64976,99,4408,Electronics,Chicago
+484,49,Male,63596,77,409,Groceries,Chicago
+485,18,Female,43171,79,2808,Furniture,Phoenix
+486,22,Male,106365,82,2091,Clothing,Phoenix
+487,62,Female,119590,97,371,Furniture,Phoenix
+488,21,Female,64139,6,3742,Groceries,New York
+489,33,Female,68713,91,4186,Groceries,Phoenix
+490,41,Male,49734,23,1922,Furniture,New York
+491,33,Male,92588,59,3373,Groceries,Phoenix
+492,19,Male,83646,91,4638,Electronics,New York
+493,45,Male,23654,98,4449,Furniture,Houston
+494,49,Female,109022,46,620,Clothing,Houston
+495,44,Male,38743,38,1076,Furniture,Chicago
+496,37,Male,68368,14,3822,Electronics,New York
+497,41,Female,110025,72,3651,Electronics,Los Angeles
+498,29,Male,94172,62,4205,Electronics,Chicago
+499,52,Female,26441,35,2873,Electronics,Houston
+500,50,Female,44611,19,2652,Electronics,New York
+501,50,Female,32149,30,2932,Clothing,Phoenix
+502,60,Female,79189,78,4007,Groceries,Los Angeles
+503,54,Female,41675,84,252,Electronics,Houston
+504,29,Female,91031,25,3064,Electronics,Chicago
+505,20,Female,62668,40,3016,Furniture,New York
+506,18,Female,33673,88,2900,Clothing,Los Angeles
+507,50,Male,96666,14,1852,Clothing,New York
+508,57,Male,108204,26,2710,Groceries,Phoenix
+509,27,Male,100758,87,3975,Clothing,Chicago
+510,60,Male,85429,22,1204,Furniture,New York
+511,61,Female,43669,48,2636,Furniture,Houston
+512,46,Male,54068,83,4299,Groceries,Chicago
+513,30,Female,108789,51,3954,Furniture,Houston
+514,29,Male,29435,3,3594,Electronics,New York
+515,48,Male,114088,42,2014,Electronics,Chicago
+516,63,Male,72249,19,3172,Furniture,Houston
+517,19,Female,57384,73,1106,Groceries,Phoenix
+518,52,Male,101929,28,506,Clothing,Phoenix
+519,40,Female,96153,84,266,Groceries,New York
+520,34,Female,95388,45,608,Clothing,Chicago
+521,43,Male,51401,71,1761,Furniture,Los Angeles
+522,25,Male,91831,78,3764,Furniture,Chicago
+523,46,Male,54084,63,3589,Electronics,Phoenix
+524,43,Female,75826,73,4958,Clothing,Houston
+525,27,Male,56451,19,780,Groceries,Los Angeles
+526,43,Female,27227,47,2624,Furniture,New York
+527,51,Female,51910,14,2220,Groceries,Los Angeles
+528,58,Male,56041,38,4777,Electronics,New York
+529,24,Male,108920,53,4457,Clothing,Los Angeles
+530,21,Female,85681,61,1463,Clothing,New York
+531,62,Female,101571,36,1431,Furniture,New York
+532,28,Female,85481,40,2392,Clothing,Los Angeles
+533,46,Male,88576,81,1638,Furniture,Los Angeles
+534,53,Female,84174,30,3508,Electronics,New York
+535,42,Male,46160,9,660,Clothing,Phoenix
+536,38,Female,37633,64,1199,Furniture,Los Angeles
+537,53,Female,114880,33,2003,Groceries,Chicago
+538,27,Male,37014,52,274,Furniture,Houston
+539,54,Female,100532,89,2256,Clothing,New York
+540,26,Male,69104,14,2330,Electronics,New York
+541,41,Male,61621,75,4387,Clothing,Houston
+542,52,Female,97231,53,4260,Clothing,Phoenix
+543,52,Male,88388,99,4020,Furniture,Houston
+544,53,Male,36014,59,1597,Groceries,Los Angeles
+545,35,Female,112578,78,3954,Clothing,Houston
+546,56,Male,53755,94,3271,Groceries,New York
+547,49,Male,60390,41,1667,Furniture,Houston
+548,41,Male,43711,68,1251,Groceries,Chicago
+549,40,Female,111658,68,468,Furniture,Los Angeles
+550,49,Male,77993,92,142,Electronics,Houston
+551,54,Female,94696,8,2007,Groceries,New York
+552,29,Female,47213,2,3590,Groceries,Los Angeles
+553,30,Male,77784,86,2635,Electronics,New York
+554,40,Male,27421,41,4273,Groceries,Phoenix
+555,42,Male,106936,55,2973,Electronics,Chicago
+556,52,Female,119073,16,1924,Clothing,Phoenix
+557,58,Male,37727,93,1393,Furniture,Chicago
+558,47,Male,24358,62,4869,Electronics,Houston
+559,34,Male,85108,48,4896,Groceries,Los Angeles
+560,37,Male,114018,30,4954,Electronics,Houston
+561,42,Male,52117,12,3486,Groceries,Chicago
+562,39,Female,108700,35,3072,Clothing,Chicago
+563,30,Female,51910,11,4022,Electronics,Chicago
+564,36,Male,118032,64,1092,Clothing,New York
+565,53,Male,75754,50,2486,Furniture,Los Angeles
+566,29,Male,82438,85,2340,Groceries,Houston
+567,58,Male,49371,21,1576,Groceries,Houston
+568,36,Female,71501,69,3507,Clothing,Phoenix
+569,29,Male,80946,48,489,Furniture,Chicago
+570,26,Female,58467,20,1099,Electronics,Chicago
+571,24,Female,37625,67,4720,Electronics,Chicago
+572,45,Male,53893,44,1955,Groceries,Houston
+573,31,Female,96329,33,758,Clothing,Phoenix
+574,48,Female,51007,73,2863,Clothing,New York
+575,36,Female,111302,61,3763,Electronics,Los Angeles
+576,64,Female,59532,9,1581,Furniture,New York
+577,33,Male,74253,68,3831,Furniture,Houston
+578,22,Male,32323,35,551,Electronics,Chicago
+579,52,Female,93379,81,2575,Electronics,Los Angeles
+580,29,Male,34210,98,3322,Clothing,Houston
+581,42,Male,36456,88,1637,Furniture,Houston
+582,38,Male,51367,96,3193,Electronics,Houston
+583,53,Male,74624,65,982,Electronics,Los Angeles
+584,40,Male,30106,8,4508,Groceries,Los Angeles
+585,33,Female,88008,45,4168,Electronics,Phoenix
+586,56,Male,92240,87,2666,Electronics,Phoenix
+587,62,Male,84315,47,3377,Furniture,New York
+588,59,Male,89249,40,474,Clothing,Los Angeles
+589,56,Male,90587,76,4646,Furniture,Los Angeles
+590,31,Female,30756,54,3797,Clothing,Los Angeles
+591,48,Female,88011,76,3162,Groceries,Phoenix
+592,22,Female,56378,46,4790,Electronics,Houston
+593,52,Female,24255,47,3350,Groceries,Chicago
+594,40,Male,34484,15,4695,Clothing,Phoenix
+595,46,Female,76549,19,4659,Furniture,Los Angeles
+596,60,Male,54503,26,212,Furniture,Phoenix
+597,28,Male,93794,52,3297,Groceries,New York
+598,35,Male,65113,93,2478,Clothing,Los Angeles
+599,64,Male,94069,22,2024,Groceries,New York
+600,29,Male,118117,21,239,Groceries,Los Angeles
+601,26,Female,25249,51,1524,Electronics,Phoenix
+602,27,Female,39201,38,3049,Groceries,Houston
+603,61,Female,78576,20,3268,Electronics,Chicago
+604,34,Female,29686,29,616,Electronics,New York
+605,55,Male,73363,51,2716,Furniture,Phoenix
+606,24,Female,117543,4,987,Electronics,Houston
+607,63,Male,20661,55,3204,Electronics,Phoenix
+608,30,Female,64843,71,149,Furniture,New York
+609,57,Male,115673,92,4051,Groceries,Chicago
+610,59,Male,80963,28,3660,Clothing,Phoenix
+611,26,Female,62828,4,118,Clothing,Los Angeles
+612,44,Male,68604,22,4921,Clothing,Houston
+613,19,Male,30526,76,1573,Groceries,Phoenix
+614,22,Female,88910,45,4161,Electronics,Houston
+615,46,Male,45592,67,2706,Clothing,Los Angeles
+616,54,Female,48982,86,551,Groceries,Chicago
+617,55,Female,20207,66,3865,Electronics,Chicago
+618,36,Female,108733,88,2538,Furniture,Los Angeles
+619,25,Male,118936,34,4410,Clothing,Houston
+620,62,Male,88619,91,1649,Electronics,Phoenix
+621,18,Male,49328,55,3574,Clothing,Los Angeles
+622,39,Female,66479,1,227,Clothing,New York
+623,34,Male,40103,72,4955,Clothing,Houston
+624,24,Female,59891,87,2861,Electronics,Chicago
+625,42,Female,30754,38,4556,Groceries,Los Angeles
+626,62,Male,119983,6,4764,Electronics,Chicago
+627,21,Female,101437,86,1515,Clothing,Houston
+628,53,Male,118540,25,301,Electronics,Chicago
+629,23,Male,92982,82,2469,Furniture,Los Angeles
+630,48,Male,75922,17,617,Groceries,Houston
+631,36,Male,68231,61,1441,Electronics,New York
+632,61,Male,49301,12,4876,Furniture,Los Angeles
+633,56,Female,111652,6,2088,Groceries,Phoenix
+634,44,Female,82711,90,3645,Furniture,Los Angeles
+635,27,Female,61323,27,4620,Groceries,Houston
+636,43,Male,38752,8,3902,Electronics,Los Angeles
+637,36,Male,117912,83,3375,Furniture,New York
+638,56,Male,102205,65,3754,Clothing,New York
+639,20,Female,118452,57,2534,Furniture,Phoenix
+640,62,Male,33395,93,4973,Groceries,Chicago
+641,30,Female,105957,99,307,Electronics,Houston
+642,45,Female,76273,40,2733,Groceries,Houston
+643,37,Male,111878,14,4217,Furniture,Chicago
+644,45,Male,24895,35,253,Furniture,New York
+645,25,Female,96559,48,3466,Clothing,New York
+646,58,Male,30699,84,4414,Electronics,Los Angeles
+647,56,Female,85061,56,4864,Electronics,Phoenix
+648,18,Male,29715,49,1618,Furniture,Phoenix
+649,20,Male,39169,13,2700,Electronics,Phoenix
+650,30,Female,36163,61,2295,Clothing,Los Angeles
+651,45,Male,25782,49,4598,Groceries,Phoenix
+652,42,Female,108177,46,4791,Electronics,Chicago
+653,50,Male,104328,62,3654,Furniture,Los Angeles
+654,55,Female,55585,8,2514,Groceries,Chicago
+655,23,Female,50682,43,2949,Groceries,Los Angeles
+656,61,Male,67864,20,1842,Clothing,Phoenix
+657,62,Female,104416,97,1406,Furniture,Chicago
+658,49,Male,75114,90,3949,Electronics,Chicago
+659,62,Male,58067,39,4268,Furniture,Chicago
+660,64,Male,62685,85,4676,Groceries,Los Angeles
+661,38,Female,38073,49,4755,Furniture,Houston
+662,33,Female,56035,64,4940,Electronics,Phoenix
+663,38,Male,84977,62,4295,Electronics,Chicago
+664,28,Male,110373,54,2655,Clothing,Houston
+665,54,Female,103362,9,2405,Electronics,Phoenix
+666,53,Male,110517,88,4608,Electronics,Phoenix
+667,52,Male,85450,37,1188,Furniture,Chicago
+668,36,Female,30382,49,2742,Furniture,Chicago
+669,37,Male,24437,41,1277,Groceries,Los Angeles
+670,35,Female,90971,17,4857,Clothing,Houston
+671,64,Male,84612,88,3094,Furniture,Houston
+672,58,Female,110355,21,659,Electronics,Chicago
+673,31,Male,81929,51,3064,Groceries,Phoenix
+674,32,Male,117518,59,1371,Furniture,Chicago
+675,48,Female,118864,39,1913,Clothing,Phoenix
+676,18,Male,32329,55,3015,Clothing,Phoenix
+677,20,Female,45169,41,709,Groceries,Chicago
+678,33,Male,107468,39,2561,Groceries,New York
+679,40,Female,54594,13,4220,Groceries,Houston
+680,28,Female,96957,64,383,Groceries,Phoenix
+681,29,Female,80631,11,3028,Groceries,Phoenix
+682,27,Female,65033,19,4496,Electronics,New York
+683,49,Male,83133,11,1191,Electronics,Los Angeles
+684,33,Male,93165,77,916,Furniture,New York
+685,25,Female,93861,46,182,Clothing,New York
+686,55,Female,72290,45,2020,Electronics,Phoenix
+687,29,Female,114031,1,3591,Electronics,Houston
+688,41,Male,51750,40,3244,Electronics,New York
+689,45,Male,115155,19,2193,Furniture,Los Angeles
+690,25,Male,60461,76,4813,Groceries,Chicago
+691,45,Male,93800,72,275,Furniture,New York
+692,53,Female,98222,72,2804,Clothing,New York
+693,43,Female,44226,61,469,Clothing,Los Angeles
+694,25,Female,26721,12,1918,Clothing,Houston
+695,45,Male,76154,61,2201,Clothing,New York
+696,45,Male,40609,33,4885,Electronics,New York
+697,54,Male,72130,45,3590,Electronics,Houston
+698,58,Female,92909,90,1879,Furniture,Los Angeles
+699,53,Female,75249,92,1464,Groceries,New York
+700,44,Male,68895,69,4562,Clothing,Houston
+701,34,Female,114473,8,3442,Furniture,New York
+702,26,Male,25656,25,4839,Electronics,Chicago
+703,50,Male,94520,91,3776,Electronics,Phoenix
+704,37,Female,83740,46,2526,Groceries,Chicago
+705,30,Male,84309,87,172,Groceries,New York
+706,45,Female,49984,30,3062,Groceries,Los Angeles
+707,46,Male,93822,47,959,Furniture,Phoenix
+708,30,Female,25901,87,3956,Electronics,Chicago
+709,63,Female,51552,49,4238,Electronics,Houston
+710,52,Female,111245,47,2524,Groceries,Los Angeles
+711,23,Male,51055,84,1164,Clothing,Chicago
+712,35,Male,57685,82,2317,Groceries,Houston
+713,22,Female,93965,18,4117,Furniture,New York
+714,64,Female,34716,66,2359,Groceries,Houston
+715,42,Male,31138,68,3851,Groceries,Chicago
+716,19,Male,55298,94,2186,Furniture,Chicago
+717,27,Male,71112,33,468,Groceries,New York
+718,47,Female,43429,36,2904,Electronics,Houston
+719,62,Male,70200,82,250,Clothing,Houston
+720,22,Male,91308,19,1234,Groceries,New York
+721,50,Female,68244,28,2884,Furniture,Houston
+722,18,Male,37347,40,4264,Clothing,New York
+723,35,Male,36920,84,2446,Furniture,Los Angeles
+724,49,Male,51822,97,4997,Clothing,Chicago
+725,64,Female,66659,76,2350,Clothing,Los Angeles
+726,28,Female,60108,15,160,Groceries,Phoenix
+727,38,Female,109099,41,3110,Electronics,Phoenix
+728,43,Female,27967,39,4001,Groceries,Phoenix
+729,42,Female,31871,2,1437,Furniture,New York
+730,39,Female,114299,63,1284,Furniture,Houston
+731,44,Female,97452,29,4526,Clothing,Los Angeles
+732,30,Male,94270,74,1651,Clothing,Los Angeles
+733,50,Male,53613,66,4533,Electronics,Los Angeles
+734,51,Female,48179,51,1729,Groceries,Los Angeles
+735,58,Male,72188,75,1427,Furniture,Phoenix
+736,52,Male,75099,77,1626,Clothing,Los Angeles
+737,18,Female,55262,10,1773,Electronics,Houston
+738,38,Male,98213,14,1461,Furniture,Phoenix
+739,23,Male,38268,82,1673,Clothing,Los Angeles
+740,45,Male,97866,51,2786,Furniture,New York
+741,34,Male,106269,73,4470,Electronics,Chicago
+742,22,Male,80545,39,2466,Electronics,Chicago
+743,48,Female,112822,28,3857,Furniture,Chicago
+744,22,Female,92146,3,2534,Groceries,Phoenix
+745,55,Female,91966,84,2093,Furniture,Los Angeles
+746,20,Male,59922,70,969,Clothing,Phoenix
+747,40,Female,99364,27,1114,Groceries,Houston
+748,54,Male,62913,2,2011,Clothing,New York
+749,54,Male,117033,93,702,Furniture,New York
+750,27,Male,75677,38,3921,Groceries,Chicago
+751,27,Male,69841,3,790,Clothing,Chicago
+752,36,Female,66332,16,593,Furniture,Chicago
+753,34,Female,112062,94,589,Furniture,Los Angeles
+754,38,Male,115694,40,2656,Groceries,Houston
+755,31,Female,45032,2,4585,Furniture,Houston
+756,26,Male,57846,81,394,Electronics,Houston
+757,63,Female,79474,41,4127,Clothing,Houston
+758,18,Female,64936,12,2943,Clothing,Chicago
+759,62,Male,49794,35,3012,Furniture,New York
+760,30,Female,81588,65,1817,Furniture,Chicago
+761,21,Male,90984,55,2696,Electronics,Houston
+762,18,Female,70331,45,4844,Groceries,Chicago
+763,57,Male,114397,79,1973,Furniture,Houston
+764,49,Male,48141,90,4763,Furniture,Phoenix
+765,51,Female,29074,85,3358,Furniture,New York
+766,45,Female,26406,62,2917,Furniture,Phoenix
+767,48,Male,117359,49,544,Clothing,Los Angeles
+768,25,Female,43291,95,3741,Furniture,Chicago
+769,56,Female,61568,25,4558,Clothing,Los Angeles
+770,43,Male,117539,23,841,Furniture,Chicago
+771,51,Male,66851,24,2141,Groceries,Phoenix
+772,20,Female,119942,38,779,Electronics,Houston
+773,29,Male,74823,28,2567,Groceries,Houston
+774,18,Male,43312,21,3797,Furniture,Chicago
+775,61,Male,63108,54,1458,Furniture,Houston
+776,22,Female,86918,18,162,Furniture,Phoenix
+777,47,Female,54171,36,2659,Groceries,Houston
+778,47,Male,61779,99,3869,Furniture,Phoenix
+779,34,Female,88828,45,4451,Groceries,Los Angeles
+780,64,Male,118723,73,234,Clothing,Phoenix
+781,40,Female,32411,53,3744,Electronics,New York
+782,32,Male,77009,30,2235,Electronics,New York
+783,54,Male,35422,60,3378,Groceries,New York
+784,38,Female,62468,98,922,Clothing,Chicago
+785,31,Male,52371,32,3174,Groceries,Chicago
+786,19,Female,77022,67,3081,Clothing,Chicago
+787,28,Female,91229,67,220,Furniture,Phoenix
+788,56,Male,119071,28,1737,Clothing,Chicago
+789,55,Male,71196,44,1024,Clothing,Los Angeles
+790,51,Female,100354,79,744,Clothing,New York
+791,55,Male,116774,41,2132,Electronics,Phoenix
+792,51,Male,116410,63,2861,Clothing,New York
+793,35,Male,46715,23,2168,Furniture,Chicago
+794,47,Male,47605,75,341,Furniture,Phoenix
+795,32,Male,119853,48,2768,Furniture,Houston
+796,44,Female,51174,32,902,Clothing,Los Angeles
+797,51,Female,29956,57,4264,Groceries,Chicago
+798,55,Male,96373,33,295,Groceries,Chicago
+799,50,Male,89252,24,2287,Furniture,Los Angeles
+800,41,Male,81949,39,3615,Electronics,Los Angeles
+801,32,Female,82646,34,2430,Groceries,Houston
+802,47,Male,90017,56,2459,Clothing,Chicago
+803,59,Female,83037,28,4941,Groceries,Chicago
+804,34,Female,109818,37,3706,Furniture,New York
+805,22,Female,26548,7,376,Electronics,Phoenix
+806,46,Male,93294,68,160,Groceries,Phoenix
+807,21,Female,43177,37,3490,Groceries,New York
+808,27,Male,44022,56,2013,Furniture,Phoenix
+809,34,Female,25542,65,4027,Electronics,Los Angeles
+810,27,Male,111012,65,2691,Electronics,Phoenix
+811,34,Female,116320,47,666,Furniture,Phoenix
+812,37,Male,80428,20,4035,Clothing,New York
+813,41,Female,42740,19,1671,Groceries,Houston
+814,22,Male,79353,29,4817,Clothing,Phoenix
+815,51,Male,110353,74,1300,Groceries,Phoenix
+816,23,Male,76532,60,4509,Groceries,Houston
+817,19,Male,36052,18,2954,Clothing,New York
+818,30,Female,67076,92,2995,Furniture,Houston
+819,60,Female,73420,35,1336,Furniture,New York
+820,60,Male,20671,43,236,Groceries,Los Angeles
+821,28,Female,20163,95,1129,Furniture,New York
+822,64,Male,61424,91,2256,Groceries,Los Angeles
+823,40,Male,73744,11,2694,Furniture,Los Angeles
+824,33,Female,90331,49,761,Groceries,New York
+825,48,Male,30634,38,2572,Furniture,Chicago
+826,28,Male,24798,64,2777,Electronics,New York
+827,33,Female,42420,69,2408,Clothing,Phoenix
+828,25,Male,49300,8,186,Electronics,Phoenix
+829,21,Male,109881,34,2612,Clothing,Chicago
+830,57,Male,30749,48,3042,Clothing,Los Angeles
+831,21,Male,45121,56,2873,Groceries,Chicago
+832,42,Female,57487,76,2604,Clothing,Phoenix
+833,20,Female,113947,65,3410,Electronics,Chicago
+834,49,Female,53361,31,1800,Electronics,New York
+835,20,Male,41223,4,3770,Furniture,Chicago
+836,44,Male,92930,50,2800,Electronics,Los Angeles
+837,46,Female,34056,69,3729,Furniture,New York
+838,49,Male,48380,30,4690,Clothing,Houston
+839,36,Male,46035,88,1747,Electronics,Phoenix
+840,38,Male,50620,59,3418,Clothing,Phoenix
+841,22,Male,39877,67,3787,Electronics,Chicago
+842,35,Female,75316,75,696,Electronics,New York
+843,45,Female,84041,45,4645,Furniture,Houston
+844,59,Female,73352,4,584,Clothing,New York
+845,39,Male,50911,26,745,Electronics,Phoenix
+846,38,Female,52784,27,3189,Groceries,New York
+847,23,Female,23191,46,4857,Clothing,Houston
+848,18,Male,53160,64,4953,Clothing,Chicago
+849,22,Male,110536,91,4484,Clothing,Los Angeles
+850,58,Female,84641,51,820,Furniture,New York
+851,29,Female,69723,50,4833,Groceries,Los Angeles
+852,43,Female,23631,6,598,Clothing,Phoenix
+853,63,Female,26172,59,4829,Electronics,Chicago
+854,51,Male,62080,15,1773,Electronics,Chicago
+855,31,Female,109097,30,3167,Furniture,New York
+856,43,Female,110353,42,214,Electronics,Chicago
+857,62,Male,40281,37,3079,Clothing,New York
+858,44,Female,48671,42,4869,Electronics,New York
+859,26,Male,71431,35,1836,Clothing,Los Angeles
+860,43,Male,110900,87,3711,Electronics,Chicago
+861,64,Male,112961,6,2353,Groceries,New York
+862,39,Female,48602,68,2394,Furniture,Los Angeles
+863,64,Female,108789,18,3730,Furniture,Houston
+864,47,Male,71399,73,246,Groceries,Los Angeles
+865,60,Female,43472,29,4082,Groceries,Los Angeles
+866,34,Female,69230,77,3553,Furniture,New York
+867,43,Male,93616,59,4607,Groceries,Phoenix
+868,53,Male,27099,47,2510,Clothing,Phoenix
+869,18,Female,45431,17,236,Electronics,Phoenix
+870,25,Male,76492,96,3460,Furniture,Los Angeles
+871,52,Female,116722,22,3105,Groceries,New York
+872,32,Female,67684,68,3652,Clothing,Chicago
+873,64,Female,50111,69,118,Furniture,Los Angeles
+874,39,Female,83936,37,2342,Groceries,Los Angeles
+875,31,Male,42614,49,548,Furniture,New York
+876,43,Male,112260,13,2048,Groceries,Houston
+877,45,Male,61991,34,1045,Furniture,Los Angeles
+878,40,Male,90476,86,4336,Clothing,Houston
+879,31,Female,80920,53,2020,Clothing,Houston
+880,41,Female,114294,87,3077,Electronics,Phoenix
+881,19,Male,83530,51,4288,Furniture,New York
+882,62,Female,56224,3,4115,Electronics,Houston
+883,43,Female,27788,42,338,Furniture,New York
+884,31,Female,48082,98,304,Groceries,Phoenix
+885,24,Male,109570,32,2707,Groceries,New York
+886,20,Male,96816,51,4440,Electronics,Los Angeles
+887,64,Male,103588,85,3488,Furniture,Houston
+888,40,Female,36531,46,3072,Electronics,New York
+889,63,Male,108340,21,4490,Clothing,Chicago
+890,60,Male,114439,44,2787,Electronics,New York
+891,64,Male,64857,11,4266,Electronics,Houston
+892,62,Male,30142,68,1448,Groceries,Phoenix
+893,35,Male,68355,1,4500,Electronics,Phoenix
+894,55,Male,29866,92,916,Furniture,Houston
+895,52,Female,90067,63,920,Groceries,Los Angeles
+896,32,Female,84027,24,292,Electronics,Los Angeles
+897,42,Male,77906,99,1876,Clothing,Phoenix
+898,54,Male,48138,13,3745,Electronics,Phoenix
+899,45,Female,112601,98,4724,Electronics,Houston
+900,27,Female,49956,11,350,Electronics,Los Angeles
+901,56,Male,96295,51,1888,Groceries,Phoenix
+902,34,Male,25439,17,3800,Furniture,Los Angeles
+903,56,Male,67241,99,2563,Clothing,Phoenix
+904,39,Male,62533,82,1267,Electronics,New York
+905,43,Female,48270,86,3993,Furniture,Chicago
+906,61,Male,98815,24,1196,Furniture,New York
+907,42,Male,59279,19,2779,Groceries,Phoenix
+908,34,Male,43888,37,1947,Clothing,Chicago
+909,30,Male,37630,85,4004,Groceries,Chicago
+910,37,Female,81063,8,604,Furniture,Phoenix
+911,42,Female,55144,28,1721,Furniture,Phoenix
+912,21,Female,72161,5,2572,Furniture,Los Angeles
+913,27,Male,116718,17,2646,Groceries,Phoenix
+914,20,Male,111074,36,1487,Clothing,Houston
+915,58,Female,97360,19,3094,Electronics,Phoenix
+916,62,Male,70979,64,3916,Groceries,Houston
+917,35,Male,117661,91,817,Furniture,Phoenix
+918,64,Female,26979,98,3584,Groceries,Los Angeles
+919,53,Female,46189,11,4534,Furniture,Houston
+920,64,Female,62600,54,758,Electronics,New York
+921,39,Female,79560,45,4108,Electronics,Houston
+922,51,Male,98040,47,4624,Clothing,Los Angeles
+923,64,Male,81558,12,4334,Furniture,Houston
+924,25,Female,106205,21,3864,Clothing,Phoenix
+925,57,Male,26910,11,3089,Clothing,Phoenix
+926,61,Female,77713,92,4737,Electronics,Los Angeles
+927,36,Female,66857,5,2204,Groceries,Chicago
+928,59,Male,54964,81,1355,Groceries,Phoenix
+929,58,Female,105667,56,2582,Clothing,New York
+930,54,Male,45227,20,483,Electronics,Los Angeles
+931,23,Male,25978,41,2707,Furniture,Houston
+932,43,Male,107527,46,293,Groceries,Houston
+933,51,Male,37153,12,3907,Clothing,New York
+934,62,Female,79765,70,3819,Groceries,Phoenix
+935,23,Male,119084,17,2681,Groceries,Los Angeles
+936,54,Female,59071,19,2665,Furniture,New York
+937,50,Female,89519,26,2863,Electronics,Phoenix
+938,39,Female,29503,48,2898,Furniture,Los Angeles
+939,38,Female,80703,52,2439,Electronics,Houston
+940,23,Male,84379,96,3506,Groceries,Los Angeles
+941,23,Male,115457,70,831,Clothing,Chicago
+942,21,Female,77866,55,2972,Furniture,Los Angeles
+943,47,Female,36905,75,3220,Electronics,Chicago
+944,28,Male,65838,33,4880,Groceries,Los Angeles
+945,47,Female,78279,62,4277,Electronics,Chicago
+946,48,Male,109489,88,2704,Electronics,Houston
+947,41,Female,46806,23,2482,Electronics,Phoenix
+948,26,Male,65000,15,631,Groceries,Chicago
+949,20,Female,42168,27,4416,Clothing,Chicago
+950,48,Female,90119,75,734,Clothing,Houston
+951,57,Male,58714,64,1869,Clothing,Chicago
+952,54,Female,74093,81,3904,Electronics,New York
+953,53,Female,75419,51,2470,Groceries,Houston
+954,41,Male,69145,53,102,Electronics,New York
+955,48,Female,97425,78,305,Clothing,Houston
+956,23,Male,112949,91,4235,Clothing,Chicago
+957,19,Male,97811,82,2721,Groceries,New York
+958,37,Female,22461,92,4839,Electronics,Chicago
+959,45,Female,34291,51,2990,Furniture,Houston
+960,28,Female,66804,47,3293,Furniture,Chicago
+961,21,Female,96971,4,2766,Clothing,New York
+962,32,Female,113471,7,3406,Groceries,New York
+963,23,Female,84946,35,997,Electronics,Chicago
+964,47,Female,118989,48,1185,Electronics,Los Angeles
+965,55,Male,104080,73,1379,Clothing,Houston
+966,19,Female,81332,72,770,Clothing,Houston
+967,32,Male,97794,45,1605,Electronics,Chicago
+968,28,Female,50841,81,3675,Electronics,Los Angeles
+969,25,Female,68758,81,4914,Clothing,New York
+970,43,Male,96272,97,2055,Electronics,Phoenix
+971,62,Female,57643,96,349,Furniture,Phoenix
+972,61,Female,70408,72,1992,Clothing,Chicago
+973,22,Male,63950,19,3539,Electronics,Los Angeles
+974,23,Female,76849,63,1953,Clothing,Los Angeles
+975,43,Female,48044,38,2954,Groceries,Houston
+976,21,Female,35997,67,1603,Clothing,New York
+977,36,Male,99751,59,3485,Clothing,Los Angeles
+978,37,Female,118605,69,3671,Groceries,Phoenix
+979,50,Female,43911,13,3892,Furniture,New York
+980,37,Female,75533,47,3526,Electronics,New York
+981,29,Female,102566,61,143,Groceries,Chicago
+982,64,Male,114870,31,3712,Clothing,Los Angeles
+983,18,Male,34571,80,2718,Electronics,Chicago
+984,43,Female,114463,96,4778,Groceries,Los Angeles
+985,31,Female,77941,22,3263,Electronics,Houston
+986,55,Male,78005,93,1388,Electronics,Chicago
+987,54,Male,106250,86,3042,Groceries,Chicago
+988,28,Female,78712,43,319,Electronics,Phoenix
+989,53,Male,63541,67,2025,Furniture,Chicago
+990,30,Female,43387,54,3072,Groceries,Los Angeles
+991,60,Male,113980,10,3613,Furniture,Phoenix
+992,20,Male,68908,42,2548,Clothing,Chicago
+993,50,Male,105457,64,3571,Electronics,Chicago
+994,23,Male,33057,21,2874,Clothing,Houston
+995,27,Female,84028,80,1090,Clothing,Chicago
+996,22,Male,75731,76,3046,Electronics,New York
+997,40,Male,44858,66,1912,Groceries,Phoenix
+998,27,Female,68689,41,903,Electronics,New York
+999,61,Male,64638,24,589,Clothing,Phoenix
+1000,19,Male,111598,35,3656,Clothing,Houston
