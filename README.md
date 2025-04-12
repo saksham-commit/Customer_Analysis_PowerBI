@@ -1,8 +1,8 @@
- Customer Purchase Analysis   
+## Customer Purchase Analysis   
 
 This project analyzes customer purchasing behavior using **Python (Jupyter Notebook) and Power BI**.  
 
- Files in this Repository:
+ ## Files in this Repository:
 - `customer_purchase_analysis` → Csv file
 - `customer_analysis.ipynb` → Python data analysis  
 - `customer_data.xlsx` → Dataset  
@@ -10,7 +10,7 @@ This project analyzes customer purchasing behavior using **Python (Jupyter Noteb
 - `PowerBI_Report.pdf` → Final report
 
 
-Key Insights:
+## Key Insights:
 ✔ Most purchased categories  
 ✔ Customer spending trends  
 ✔ Geographic customer distribution  
