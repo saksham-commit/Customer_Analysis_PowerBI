@@ -15,7 +15,7 @@ This project analyzes customer purchasing behavior using **Python (Jupyter Noteb
 ✔ Customer spending trends  
 ✔ Geographic customer distribution  
 
-How to Use This Project?
+## How to Use This Project?
 1. Download the `.pbix` file and open it in **Power BI Desktop**.  
 2. Explore interactive visualizations.  
 3. View the full report in the `PowerBI_Report.pdf` file.  
